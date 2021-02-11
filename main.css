@@ -1,0 +1,16 @@
+app-features-image.image {
+    width: 100px;
+}
+
+.text-container {
+    height: max-content;
+    color: #FFF;
+    background: #333333;
+    background: linear-gradient(36deg, #003458df 0%, #ffffff 99%);
+    min-height: 100vh;
+  }
+
+.screenshot {
+    border-radius: 10%;
+    margin-top: 10px;
+}
